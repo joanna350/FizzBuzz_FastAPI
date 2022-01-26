@@ -4,6 +4,7 @@
 - Combination of FizzBuzz logic and mock data from JSONPlaceholder
 
 ### Environment
+- Ubuntu 18.04
 - Python 3.7
 
 ### How to Run
