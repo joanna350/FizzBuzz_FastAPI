@@ -8,11 +8,14 @@
 
 ### How to Run
 
-- on a console
+- on a console, type
 `unicorn main:app --reload`
 
-- on web browser, go to 
+- then on web browser, go to 
 `127.0.0.1:8000/fizzbuzz/_number_`
 
-- (to run the test) on a console
+- type in an integer 1-10 or 15 in place of `__number__`
+
+### How to test 
+- on a console, run
 `pytest`
