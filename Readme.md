@@ -10,7 +10,7 @@
 ### How to Run
 
 - on a console, type
-`unicorn main:app --reload`
+`uvicorn main:app --reload`
 
 - then on web browser, go to 
 `127.0.0.1:8000/fizzbuzz/_number_`
